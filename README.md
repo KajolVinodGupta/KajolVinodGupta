@@ -76,7 +76,7 @@ Feel free to connect with me on various platforms:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kajol.v.gupta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajol.v.gupta@gmail.com"/>
   </a>
 </p>
 Thanks for stopping by, and I look forward to connecting with you!
