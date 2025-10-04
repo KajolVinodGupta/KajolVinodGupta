@@ -57,6 +57,7 @@ I’m deeply interested in solving real-world problems through **Data Analysis**
 
 ---
 
+
 ## Let's Collaborate! 🤝
 I enjoy collaborating on projects involving:  
 
@@ -80,6 +81,11 @@ Feel free to connect with me on various platforms:
   </a>
 </p>
 Thanks for stopping by, and I look forward to connecting with you!
+
+---
+
+## Contact Me 📧
+You can reach me via email at **kajol.v.gupta@gmail.com**. I’m always excited to connect with like-minded individuals to discuss **tech, data, coding, or innovative projects**.  
 
 ---
 
